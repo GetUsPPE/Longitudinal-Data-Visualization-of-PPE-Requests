@@ -1,6 +1,0 @@
-jupyterlab
-notebook
-numpy
-pandas
-matplotlib
-scipy
